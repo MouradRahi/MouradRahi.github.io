@@ -1,0 +1,33 @@
+  body{
+    color: lightgrey;
+  }
+  h1 {
+    color: blue;
+  }
+  h2 {
+    color: blue;
+  }
+  h3 {
+    color: blue;
+  }
+  h4 {
+    color: blue;
+  }
+  h5 {
+    color: blue;
+  }
+  h6 {
+    color: blue;
+  }
+  p {
+    margin-top: -20px;
+    }
+  ol{
+    margin-left: -20px;
+  }
+  ul{
+    margin-top: -20px;
+  }
+  a{
+    margin-top: -20px;
+  }

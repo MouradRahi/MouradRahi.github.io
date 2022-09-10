@@ -1,7 +1,8 @@
   body{
-    color: lightgrey;
+    background-color: lightgrey;
   }
   h1 {
+    background-color: white;
     color: brown;
   }
   h2 {

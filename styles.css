@@ -28,8 +28,13 @@
   }
   [type=date]{
     color: black;
-    margin-left: -5px;
+    
   }
+  [type=text]{
+    color: black;
+    
+  }
+
   input{
     color: #78363F;
   }
@@ -38,7 +43,7 @@
 
   }
   textarea {
-    color: #78363F;
+    color: black;
     margin-left: 25%;
     
   }

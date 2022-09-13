@@ -2,21 +2,13 @@
     color: #78363F;
     text-align: center;
   }
-  h2 {
-    color: #78363F;
-  }
-  h3 {
-    color: #78363F;
-  }
+  
   h4 {
     color: #78363F;
+    margin-left: 25%;
+    
   }
-  h5 {
-    color: #78363F;
-  }
-  h6 {
-    color: #78363F;
-  }
+  
   form{
     margin-left: 25%;
     margin-right: 25%;
@@ -24,6 +16,25 @@
   }
   table{
     margin-left: 25%;
+    margin-top: -20px;
     
+  }
+  [type=radio]{
+    color: #78363F;
+    
+  }
+  th{
+    margin: 0%;
+  }
+  [type=date]{
+    color: black;
+    margin-left: -5px;
+  }
+  input{
+    color: #78363F;
+  }
+  body{
+    color: #78363F;
+
   }
   

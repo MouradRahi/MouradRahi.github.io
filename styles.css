@@ -1,34 +1,24 @@
-  body{
-    background-color: lightgrey;
-  }
   h1 {
-    background-color: white;
-    color: brown;
+    color: #78363F;
+    margin-left: 50%;
   }
   h2 {
-    color: blue;
+    color: #78363F;
   }
   h3 {
-    color: blue;
+    color: #78363F;
   }
   h4 {
-    color: blue;
+    color: #78363F;
   }
   h5 {
-    color: blue;
+    color: #78363F;
   }
   h6 {
-    color: blue;
+    color: #78363F;
   }
-  p {
-    margin-top: -20px;
-    }
-  ol{
-    margin-left: -20px;
+  form{
+    margin-left:50%;
+    background-color: lightgrey;
   }
-  ul{
-    margin-top: -20px;
-  }
-  a{
-    margin-top: -20px;
-  }
+  
